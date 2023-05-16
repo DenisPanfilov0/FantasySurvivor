@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 909864ad057140eb8676215070fd5f88, type: 3}
+  m_Name: FireBall
+  m_EditorClassIdentifier: 
+  _id: 1
+  _description: 
+  _cardName: FireBall
+  _currentVisualLevel: 0
+  _currentSkillLevel: 0
+  _abilityPrefab: {fileID: 3991112921032080541, guid: b7c974e68696ac746addfe986547659a, type: 3}
+  _visualCardPrefab: {fileID: 5846845393863295146, guid: 0841345f33d714f469c3d71a4aae13a8, type: 3}
